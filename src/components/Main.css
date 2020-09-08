@@ -1,0 +1,15 @@
+.main{
+    text-align: center;
+    background-color: #282c34;
+    display: flex; 
+    font-size: 4rem;
+    align-items: center; 
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh; 
+    color: white;
+}
+
+.back-btn{
+    font-size: 2rem;
+}
